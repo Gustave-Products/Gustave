@@ -1,0 +1,2 @@
+# Gustave
+Multipurpose discord bot
